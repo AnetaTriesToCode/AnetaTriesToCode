@@ -3,7 +3,7 @@ My name is Aneta and I'm at the very beginning of my coding career as a student 
 - **my CV in HTML**
 - **periodic table as an exercise of responsive images**
 - **various CSS stylesheets**
-- **Javascript fortune telling <sub>(because I'm 6)</sub> and water bill calculator <sub>(because I'm 60)</sub>
+- **Javascript fortune telling <sub>(because I'm 6)</sub> and water bill calculator <sub>(because I'm 60)</sub>**
 
 Those can be found in my following repository: https://github.com/AnetaTriesToCode/Web-Dev-fundamentals , which I hope will be only getting more and more content as my experience broadens.
 
